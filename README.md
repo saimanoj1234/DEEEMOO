@@ -1,1 +1,1 @@
-# How to read , write and show videos from camera
+# How to read video from camera
